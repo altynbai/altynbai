@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aidos @altynbai
-- 👀 I’m interested in all things Linux, Cloud and programming
-- 🌱 I’m currently learning Kubernetes, AWS
+- 👀 I’m interested in all things Linux, Cloud and System Design
 - 💞️ I’m looking to collaborate on Cloud Automation projects
 - 📫 You can reach me by emailing tauanov.aidos[@]gmail.com
 
